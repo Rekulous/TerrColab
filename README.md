@@ -23,7 +23,7 @@ As Google Colab is a VM running Ubuntu 18.04 server as base OS, it can be easily
 9. PROFIT!
 
 ## Install
-You must get **ALL* files including the serverconfig.txt, put them in your gdrive where you going to execute and follow the program steps.
+You must get **ALL** files including the serverconfig.txt, put them in your gdrive where you going to execute and follow the program steps.
 
 ## License
 The project is licnsed under GNU GPL v3.
